@@ -1,0 +1,6 @@
+[submodule "cultura-ocio-agenda-eventos-actividades"]
+	path = cultura-ocio-agenda-eventos-actividades
+	url = https://github.com/jperez4/cultura-ocio-agenda-eventos-actividades.git
+[submodule "cultura-ocio-lugares-interes"]
+	path = cultura-ocio-lugares-interes
+	url = https://github.com/jperez4/cultura-ocio-lugares-interes.git
